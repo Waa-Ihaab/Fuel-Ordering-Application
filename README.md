@@ -1,15 +1,25 @@
 Technologies Used
+
   Python: The core programming language.
+
   Tkinter: For the GUI.
+  
   Pandas: For handling data and generating Excel files.
+  
   Openpyxl: For working with Excel files.
+  
   SQLite: For database management.
-  Acknowledgements
+  
+Acknowledgements
   
 Thank you to the following resources and libraries that made this project possible:
+
   Tkinter documentation
+
   Pandas documentation
+  
   Openpyxl documentation
+
   
 Screenshots
 
